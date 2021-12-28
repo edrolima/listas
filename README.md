@@ -1,7 +1,5 @@
    ⚽ Premier League ⚽
-   
   SP: Premier League: Sky Sports Premier League HD (UK)
-  
   SP: Premier League: Premier Sports 1 HD (UK)
   SP: Premier League: NBC Sports HD (US)
   SP: Premier League: NBC Universo HD (US)
