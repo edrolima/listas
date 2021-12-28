@@ -6591,5 +6591,5 @@ SP: PT: NBA
   SP: UK: BT Sport 1 FHD
   SP: UK: BT Sport 2 FHD
   SP: UK: BT Sport 3 FHD
-  SP: UK: BT Sport ESPN FHD
+  SP: UK: BT Sport ESPN FH
  ▂ ▄ ▅ ▆  EX-YU COUNTRIES  ▆ ▅ ▄ ▂
